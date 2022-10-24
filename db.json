@@ -1,0 +1,54 @@
+{
+  "posts": [
+    {
+      "name": "kareem"
+    },
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "products": [
+    {
+      "name": "cola",
+      "price": 200,
+      "items": 20,
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Pepsi",
+      "price": 200,
+      "items": 20
+    },
+    {
+      "id": 3,
+      "name": "Molto",
+      "price": 300,
+      "items": 30
+    },
+    {
+      "name": "Chooclate",
+      "price": "400",
+      "items": 40,
+      "id": 4
+    },
+    {
+      "name": "Shipsy",
+      "price": "5",
+      "items": "40",
+      "id": 5
+    }
+  ]
+}
